@@ -24,7 +24,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=RawatShruti&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RawatShruti&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RawatShruti&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://activity-graph.herokuapp.com/graph?username=RawatShruti&&theme=xcode)](https://github.com/RawatShruti)
+![](https://activity-graph.herokuapp.com/graph?username=RawatShruti&&theme=xcode)
+![](https://activity-graph.herokuapp.com/graph?username=RawatShruti&&theme=flag-india)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
