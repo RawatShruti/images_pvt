@@ -1,6 +1,6 @@
 ## Hi, I'm [Shruti Rawat!]() 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RawatShruti&label=Views&color=blue&style=plastic" alt="RawatShruti" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=RawatShruti&label=Views&color=blue&style=plastic" alt="RawatShruti" /> </p>
 
 # 💫About Me :
 - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
