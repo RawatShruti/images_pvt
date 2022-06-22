@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - Codepur](https://youtube.com/hellocodepur)
-- 😄 Pronouns: He/His
+- 📫 How to reach me: [Twitter](https://twitter.com/rawatshruti_), [Gmail](shrutirawat1511@gmail.com)
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 ## 🌐Connect with me
